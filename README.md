@@ -72,8 +72,8 @@ venv\Scripts\activate  # Для Windows
 ```sh
 pip install -r requirements.txt
 ```
-```3. **Запустите сервер разработки:**
-sh
+3. **Запустите сервер разработки:**
+```sh
 uvicorn app.main:app --reload
 ```
 ## Документация API
